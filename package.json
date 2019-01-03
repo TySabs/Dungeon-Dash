@@ -1,0 +1,21 @@
+{
+  "name": "dungeondash",
+  "version": "1.0.1",
+  "description": "A frogger tribute arcade game.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TySabs/Dungeon-Dash.git"
+  },
+  "author": "Ty Sabs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TySabs/Dungeon-Dash/issues"
+  },
+  "homepage": "https://github.com/TySabs/Dungeon-Dash#readme",
+  "devDependencies": {
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {}
+}
